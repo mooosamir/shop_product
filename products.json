@@ -1,0 +1,70 @@
+[
+    {
+      "id": 1,
+      "name": "بوكس الأسرة",
+      "nameEn": "Family Box",
+      "price": 480,
+      "image": "box-family.jpg",
+      "description": "بوكس تمويني متكامل للأسرة لمدة أسبوع",
+      "descriptionEn": "Complete weekly grocery box for a family",
+      "type": "box",
+      "products": [
+        { "name": "أرز", "nameEn": "Rice", "quantity": 2 },
+        { "name": "زيت", "nameEn": "Cooking Oil", "quantity": 1 },
+        { "name": "سكر", "nameEn": "Sugar", "quantity": 2 },
+        { "name": "مكرونة", "nameEn": "Pasta", "quantity": 2 },
+        { "name": "شاي", "nameEn": "Tea", "quantity": 1 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "بوكس العزاب",
+      "nameEn": "Single Box",
+      "price": 280,
+      "image": "box-single.jpg",
+      "description": "بوكس تمويني خفيف للأفراد",
+      "descriptionEn": "Light grocery box for single individuals",
+      "type": "box",
+      "products": [
+        { "name": "عدس", "nameEn": "Lentils", "quantity": 1 },
+        { "name": "شوربة جاهزة", "nameEn": "Instant Soup", "quantity": 2 },
+        { "name": "جبنة مطبوخة", "nameEn": "Processed Cheese", "quantity": 1 },
+        { "name": "عيش فينو", "nameEn": "Bread", "quantity": 1 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "بوكس الأطفال",
+      "nameEn": "Kids Box",
+      "price": 350,
+      "image": "box-kids.jpg",
+      "description": "بوكس مخصص للأطفال، غني بالسناكس والعصائر",
+      "descriptionEn": "Box for kids with snacks and juices",
+      "type": "box",
+      "products": [
+        { "name": "عصير فواكه", "nameEn": "Fruit Juice", "quantity": 3 },
+        { "name": "بسكويت", "nameEn": "Biscuits", "quantity": 2 },
+        { "name": "لبن أطفال", "nameEn": "Kids Milk", "quantity": 1 },
+        { "name": "جبنة مربعات", "nameEn": "Cheese Cubes", "quantity": 1 },
+        { "name": "كورنفليكس", "nameEn": "Cornflakes", "quantity": 1 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "بوكس العزومة",
+      "nameEn": "Feast Box",
+      "price": 750,
+      "image": "box-feast.jpg",
+      "description": "بوكس خاص بالعزومات والمناسبات",
+      "descriptionEn": "Special box for family feasts and gatherings",
+      "type": "box",
+      "products": [
+        { "name": "لحمة مفرومة", "nameEn": "Minced Meat", "quantity": 1 },
+        { "name": "فراخ", "nameEn": "Chicken", "quantity": 2 },
+        { "name": "رز بسمتي", "nameEn": "Basmati Rice", "quantity": 2 },
+        { "name": "خلطة كبسة", "nameEn": "Kabsa Mix", "quantity": 1 },
+        { "name": "مياه غازية", "nameEn": "Soft Drinks", "quantity": 3 }
+      ]
+    }
+  ]
+  
